@@ -9,7 +9,7 @@ int main()
 #endif
 	int n, m, k;
 	cin >> n >> m >> k;
-	ll a[n], b[m], p = 0, q = 0, ans = 0;
+	long long a[n], b[m], p = 0, q = 0, ans = 0;
 	for (int i = 0; i < n; i++)
 		cin >> a[i];
 	for (int j = 0; j < m; j++)
